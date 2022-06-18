@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ocampokimj
 - 👀 I’m new to coding and I want to make a career change.
-- 🌱 I’m currently learning ... CSS, HTML, & Javascript.
+- 🌱 I’m currently learning ... CSS, HTML, Javascript, & ReactJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ocampokimj@yahoo.com
 
